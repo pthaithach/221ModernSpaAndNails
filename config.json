@@ -1,0 +1,36 @@
+{
+    "data": {
+        "store"     : "Modern Spa And Nails",
+        "slug"      : "Modern-spa-and-nails",
+        "phone"     : "717 945 6539",
+        "email"     : "trankhevin@yahoo.com",
+        "address"   : "1200 Gilbert Way, Suite D106 Lancaster, Pennsylvania 17601",
+        "time_1"    : "Mon - Fri: 09:00 AM - 08:00 PM",
+        "time_2"    : "Sat: 09:00 AM - 07:00 PM",
+        "time_3"    : "Sun: 11:00 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/Modern-Spa-And-Nails-II-271165588064726",
+        "instagram" :   "https://www.instagram.com/modern_spa_and_nails221",
+        "google"    :   "https://goo.gl/maps/8PzfBy9Bo2eFuTLB7",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDk0ODh8bW9kZXJuNzE3fFBBXzA4MTIxfGM4Yzc3NmMzZThmM2RlY2E3YmE2YjAxMzZiZjIzODRj",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3053.6741760987697!2d-76.34074604858375!3d40.060371579307144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c625ff915da875%3A0xe47b356036464c6c!2sModern%20Spa%20And%20Nails%20II!5e0!3m2!1sen!2s!4v1667366766956!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#262626",
+        "primary_light"         :   "#000000",
+        "primary_hover"         :   "#FFFA8A",
+        "secondary"             :   "#FFFA8A",
+        "secondary_hover"       :   "#386270",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5500/"
+}
+
